@@ -1,5 +1,8 @@
 # Youtube_EDA
-Project objective: 
+
+Link of Database :- https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
+
+**Project objective:
 
 The project aimed to analyze a dataset of daily trending YouTube videos from multiple countries and gain insights into user preferences, popular video categories, trending videos, and user interactions.
 
